@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Cabin', sans-serif;
+}
+
+header {
+    height: 80px;
+    background-color: #0082C3;
+}
+
+h1 {
+    line-height: 80px;
+    color: white;
+    margin-left: 10px;
+}
+
+main {
+    margin-top: 10px;
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.prodotti {
+    border: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+.prod {
+    margin-bottom: 10px;
+}
